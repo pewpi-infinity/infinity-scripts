@@ -1,0 +1,12 @@
+{
+  "hashrate_ghs": 95000.0,
+  "watts": 3250.0,
+  "ghs_per_watt": 29.2308,
+  "bitcoin_anchor": {
+    "anchor_type": "BITCOIN",
+    "difficulty": 148195306640205.0,
+    "epoch": 1460,
+    "last_update": 1766097548,
+    "note": "All Infinity carts reference this anchor"
+  }
+}

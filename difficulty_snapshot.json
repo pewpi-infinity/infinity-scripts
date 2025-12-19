@@ -1,0 +1,11 @@
+{
+  "difficulty": 148195306640205.0,
+  "ts": 1766096879,
+  "bitcoin_anchor": {
+    "anchor_type": "BITCOIN",
+    "difficulty": 148195306640205.0,
+    "epoch": 1460,
+    "last_update": 1766097548,
+    "note": "All Infinity carts reference this anchor"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "mode": "SIMULATED",
+  "ts": 1766096877,
+  "summary": {
+    "SUMMARY": [
+      {
+        "GHS 5s": 95000.0,
+        "Power": 3250,
+        "Elapsed": 86400
+      }
+    ]
+  },
+  "pools": {
+    "POOLS": []
+  },
+  "bitcoin_anchor": {
+    "anchor_type": "BITCOIN",
+    "difficulty": 148195306640205.0,
+    "epoch": 1460,
+    "last_update": 1766097548,
+    "note": "All Infinity carts reference this anchor"
+  }
+}
